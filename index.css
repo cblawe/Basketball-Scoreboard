@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background:#1B244A;
+    width: 575px;
+    height: 385px;
+    }
+
+h3 {
+    font-family: Verdana;
+    font-size: 40px;
+    color: #EEEEEE;
+    margin-bottom: 0;
+    line-height: 36px;
+}
+
+p {
+    background-color: 080001;
+    color: F94F6D;
+    width: 155px;
+    height: 120px;
+    font-family: CursedTimerULiL;
+    font-size: 90px;
+    text-align: center;
+    line-height: 127px;
+    margin-top: 21px;
+    margin-bottom: 0;
+}
+
+button {
+    font-family: CursedTimerULiL;
+    font-size: 18px;
+    text-align: center;
+    width: 45px;
+    height: 45px;
+    margin-top: 26px;
+    color: #9AABD8;
+    background-color: transparent;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+}
