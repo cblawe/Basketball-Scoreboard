@@ -31,7 +31,7 @@ p {
     margin-bottom: 0;
 }
 
-button {
+#score {
     font-family: CursedTimerULiL;
     font-size: 18px;
     text-align: center;
@@ -42,4 +42,13 @@ button {
     background-color: transparent;
     border: 2px solid #9AABD8;
     border-radius: 5px;
+    margin-bottom: 0;
+}
+
+#reset {
+    font-family:'Verdana';
+    width: 100px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 250px;
 }

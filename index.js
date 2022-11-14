@@ -38,3 +38,11 @@ function guest3() {
     guestCount += 3
     guestScore.textContent = guestCount
 }
+
+//reset button
+function reset(){
+    homeScore.textContent = 0
+    guestScore.textContent = 0
+    homeCount = 0
+    guestCount = 0
+}
